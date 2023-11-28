@@ -40,8 +40,8 @@ function Consultaslist()
                                 <tr>
                                 <th scope="col">Sr.No</th>
                                 <th scope="col">Consulta</th>
-                                <th scope="col">Descrição</th>
                                 <th scope="col">Data</th>
+                                <th scope="col">Descrição</th>
                                 <th scope="col">Imagem</th>
                                 <th scope="col" width="200">Action</th>
                                 </tr>
